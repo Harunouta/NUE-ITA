@@ -1,0 +1,2765 @@
+[Text analysis result]
+ストレス,名詞,一般,*,*,*,*,ストレス,ストレス,ス’トレス,2/4,C1,-1
+は,助詞,係助詞,*,*,*,*,は,ハ,ワ,0/1,名詞%F1/動詞%F2@0/形容詞%F2@0,1
+適度,名詞,形容動詞語幹,*,*,*,*,適度,テキド,テキド,1/3,C1,0
+に,助詞,副詞化,*,*,*,*,に,ニ,ニ,0/1,動詞%F5/形容詞%F1/名詞%F1,1
+発散,名詞,サ変接続,*,*,*,*,発散,ハッサン,ハッサン,0/4,C2,0
+し,動詞,自立,*,*,サ変・スル,連用形,する,シ,シ,3/1,*,0
+ましょ,助動詞,*,*,*,特殊・マス,未然ウ接続,ます,マショ,マショ,2/2,動詞%F4@2/助詞%F2@2,1
+う,助動詞,*,*,*,不変化型,基本形,う,ウ,ー,0/1,動詞%F1/特殊助動詞%F2@0,1
+。,記号,句点,*,*,*,*,。,、,、,0/0,*,0
+
+[Output label]
+0 3100000 xx^xx-sil+s=U/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_17/K:1+4-17
+3100000 4000000 xx^sil-s+U=t/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+4000000 4300000 sil^s-U+t=o/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+4300000 4700000 s^U-t+o=r/A:0+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+4700000 5350000 U^t-o+r=e/A:0+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+5350000 5650000 t^o-r+e=s/A:1+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+5650000 6150000 o^r-e+s=u/A:1+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+6150000 7150000 r^e-s+u=w/A:2+4+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+7150000 7650000 e^s-u+w=a/A:2+4+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+7650000 8500000 s^u-w+a=t/A:3+5+1/B:02-xx_xx/C:24_xx+xx/D:19+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+8500000 9050000 u^w-a+t=e/A:3+5+1/B:02-xx_xx/C:24_xx+xx/D:19+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+9050000 9800000 w^a-t+e=k/A:0+1+4/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+9800000 10500000 a^t-e+k=i/A:0+1+4/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+10500000 11250000 t^e-k+i=d/A:1+2+3/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+11250000 11700000 e^k-i+d=o/A:1+2+3/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+11700000 12200000 k^i-d+o=n/A:2+3+2/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+12200000 12900000 i^d-o+n=i/A:2+3+2/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+12900000 13500000 d^o-n+i=h/A:3+4+1/B:19-xx_xx/C:23_xx+xx/D:03+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+13500000 14200000 o^n-i+h=a/A:3+4+1/B:19-xx_xx/C:23_xx+xx/D:03+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+14200000 15100000 n^i-h+a=cl/A:-3+1+4/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+15100000 15800000 i^h-a+cl=s/A:-3+1+4/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+15800000 16050000 h^a-cl+s=a/A:-2+2+3/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+16050000 16850000 a^cl-s+a=N/A:-1+3+2/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+16850000 17650000 cl^s-a+N=sh/A:-1+3+2/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+17650000 18350000 s^a-N+sh=i/A:0+4+1/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+18350000 19350000 a^N-sh+i=m/A:-2+1+4/B:03-xx_xx/C:20_4+1/D:10+7_0/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+19350000 19800000 N^sh-i+m=a/A:-2+1+4/B:03-xx_xx/C:20_4+1/D:10+7_0/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+19800000 20500000 sh^i-m+a=sh/A:-1+2+3/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+20500000 21000000 i^m-a+sh=o/A:-1+2+3/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+21000000 22000000 m^a-sh+o=o/A:0+3+2/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+22000000 22650000 a^sh-o+o=sil/A:0+3+2/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+22650000 23800000 sh^o-o+sil=xx/A:1+4+1/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+23800000 29100000 o^o-sil+xx=xx/A:xx+xx+xx/B:10-7_0/C:xx_xx+xx/D:xx+xx_xx/E:4_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:4_17/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+4-17
+
+[Global parameter]
+Sampring frequency                     ->    48000(Hz)
+Frame period                           ->      240(point)
+                                           5.00000(msec)
+All-pass constant                      ->  0.55000
+Gamma                                  ->  0.00000
+Postfiltering coefficient              ->  0.00000
+Audio buffer size                      ->        0(sample)
+
+[Duration parameter]
+Number of states                       ->        5
+         Interpolation size            ->        1
+         Interpolation weight[ 0]      ->      100(%)
+
+[Stream parameter]
+Stream[ 0] vector length               ->       35
+           Dynamic window size         ->        3
+           Interpolation size          ->        1
+           Interpolation weight[ 0]    ->      100(%)
+           MSD flag                    ->    FALSE
+           GV flag                     ->     TRUE
+           GV weight                   ->      100(%)
+           GV interpolation size       ->        1
+           GV interpolation weight[ 0] ->      100(%)
+Stream[ 1] vector length               ->        1
+           Dynamic window size         ->        3
+           Interpolation size          ->        1
+           Interpolation weight[ 0]    ->      100(%)
+           MSD flag                    ->     TRUE
+           MSD threshold               ->  0.50000
+           GV flag                     ->     TRUE
+           GV weight                   ->      100(%)
+           GV interpolation size       ->        1
+           GV interpolation weight[ 0] ->      100(%)
+Stream[ 2] vector length               ->       31
+           Dynamic window size         ->        1
+           Interpolation size          ->        1
+           Interpolation weight[ 0]    ->      100(%)
+           MSD flag                    ->    FALSE
+           GV flag                     ->    FALSE
+
+[Generated sequence]
+Number of HMMs                         ->       33
+Number of stats                        ->      165
+Length of this speech                  ->    2.910(sec)
+                                       ->   139680(frames)
+HMM[ 0]
+  Name                                 -> xx^xx-sil+s=U/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_17/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      162
+  State[ 2]
+    Length                             ->        7(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      147
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       93
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->       13(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       87
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      338
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->       13(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->       22(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       11
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       80
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        7(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      148
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       74
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 1]
+  Name                                 -> xx^sil-s+U=t/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      181
+  State[ 2]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        2
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        6
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        6
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       35
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        7(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       30
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       64
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        4
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       83
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 2]
+  Name                                 -> sil^s-U+t=o/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      225
+  State[ 2]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      174
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        8
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      178
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      149
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       37
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      144
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       84
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       12
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      170
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      307
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 3]
+  Name                                 -> s^U-t+o=r/A:0+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       14
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       46
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      272
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       35
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      129
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       23
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      161
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      235
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 4]
+  Name                                 -> U^t-o+r=e/A:0+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      125
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       73
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      182
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       18
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      329
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      115
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      190
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      129
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       59
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       32
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       14
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 5]
+  Name                                 -> t^o-r+e=s/A:1+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       51
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      142
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      119
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      120
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       36
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       91
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       17
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       45
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      182
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       40
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      274
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 6]
+  Name                                 -> o^r-e+s=u/A:1+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       22
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      128
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      328
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      108
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      208
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      157
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       78
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       36
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      315
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      116
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       57
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 7]
+  Name                                 -> r^e-s+u=w/A:2+4+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       66
+  State[ 2]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      179
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       34
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      130
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       51
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        8(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       60
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       64
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       88
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      267
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 8]
+  Name                                 -> e^s-u+w=a/A:2+4+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      108
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       18
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      153
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       16
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      169
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       93
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      254
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      116
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      367
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      141
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      223
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[ 9]
+  Name                                 -> s^u-w+a=t/A:3+5+1/B:02-xx_xx/C:24_xx+xx/D:19+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      193
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       11
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      148
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        5(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       27
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       16
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      101
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       39
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       38
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      325
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       82
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      406
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[10]
+  Name                                 -> u^w-a+t=e/A:3+5+1/B:02-xx_xx/C:24_xx+xx/D:19+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      130
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      136
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      148
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       52
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      395
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       59
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      201
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       99
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      279
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       25
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      304
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[11]
+  Name                                 -> w^a-t+e=k/A:0+1+4/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      200
+  State[ 2]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      161
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      249
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      106
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      262
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      130
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       71
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       30
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      236
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[12]
+  Name                                 -> a^t-e+k=i/A:0+1+4/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      120
+  State[ 2]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       94
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      297
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      108
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      241
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      157
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      104
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       90
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      230
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      145
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      397
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[13]
+  Name                                 -> t^e-k+i=d/A:1+2+3/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      217
+  State[ 2]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       51
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       48
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      111
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      262
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       12
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       89
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       45
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       78
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[14]
+  Name                                 -> e^k-i+d=o/A:1+2+3/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      173
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       14
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      216
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       67
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      125
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       49
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      204
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       94
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      129
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      115
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      208
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[15]
+  Name                                 -> k^i-d+o=n/A:2+3+2/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      239
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       65
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      302
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      113
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      305
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        8
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       65
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      103
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      378
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      128
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      204
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[16]
+  Name                                 -> i^d-o+n=i/A:2+3+2/B:24-xx_xx/C:19_xx+xx/D:23+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      144
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       72
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      302
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       18
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      256
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       16
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       38
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       24
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      367
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      189
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      223
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[17]
+  Name                                 -> d^o-n+i=h/A:3+4+1/B:19-xx_xx/C:23_xx+xx/D:03+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       60
+  State[ 2]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       79
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      148
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       69
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      127
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        7
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        9
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        6
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      272
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       52
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      340
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[18]
+  Name                                 -> o^n-i+h=a/A:3+4+1/B:19-xx_xx/C:23_xx+xx/D:03+xx_xx/E:5_2!0_xx-1/F:4_1#0_xx@2_3|6_12/G:4_4%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      131
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       21
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      148
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       20
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      395
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       24
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      201
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       46
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      373
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      200
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      265
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[19]
+  Name                                 -> n^i-h+a=cl/A:-3+1+4/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      146
+  State[ 2]
+    Length                             ->        6(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       93
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      268
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      122
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      193
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       42
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      233
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        7(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      105
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      238
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       43
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      328
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[20]
+  Name                                 -> i^h-a+cl=s/A:-3+1+4/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      229
+  State[ 2]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       36
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      320
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      167
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      219
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      110
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      443
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       99
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      135
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       25
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      168
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[21]
+  Name                                 -> h^a-cl+s=a/A:-2+2+3/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->        3
+  State[ 2]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      162
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      126
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      144
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      463
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       69
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      173
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        8
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        2
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       74
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[22]
+  Name                                 -> a^cl-s+a=N/A:-1+3+2/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       10
+  State[ 2]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      119
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        6
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      130
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      463
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        7(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       60
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      265
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      118
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       36
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      236
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[23]
+  Name                                 -> cl^s-a+N=sh/A:-1+3+2/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      198
+  State[ 2]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      150
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      367
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        5(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      134
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      379
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      121
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      165
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       96
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       74
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      194
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       19
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[24]
+  Name                                 -> s^a-N+sh=i/A:0+4+1/B:23-xx_xx/C:03_xx+xx/D:20+4_1/E:4_1!0_xx-1/F:4_4#0_xx@3_2|10_8/G:4_3%0_xx_1/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       71
+  State[ 2]
+    Length                             ->        6(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      180
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       97
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      118
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      304
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       39
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        2
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       39
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      176
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       22
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       97
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[25]
+  Name                                 -> a^N-sh+i=m/A:-2+1+4/B:03-xx_xx/C:20_4+1/D:10+7_0/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       32
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      121
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       74
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       80
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      338
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        8(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      151
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        5(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       31
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       79
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      267
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[26]
+  Name                                 -> N^sh-i+m=a/A:-2+1+4/B:03-xx_xx/C:20_4+1/D:10+7_0/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      172
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       13
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      178
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       32
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      511
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       17
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      364
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      131
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       99
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      182
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      191
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[27]
+  Name                                 -> sh^i-m+a=sh/A:-1+2+3/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       56
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      134
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       59
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       94
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      372
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       15
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      440
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      136
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      239
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      191
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      190
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[28]
+  Name                                 -> i^m-a+sh=o/A:-1+2+3/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       22
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       38
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       59
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       51
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       42
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       59
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      338
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       98
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       11
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      101
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      356
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[29]
+  Name                                 -> m^a-sh+o=o/A:0+3+2/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       33
+  State[ 2]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      145
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       74
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       79
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      338
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        6(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      125
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        6(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      134
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       81
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       97
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      215
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[30]
+  Name                                 -> a^sh-o+o=sil/A:0+3+2/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->       24
+  State[ 2]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       77
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->      352
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       92
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      483
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        4
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      158
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        3
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      260
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       42
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      191
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[31]
+  Name                                 -> sh^o-o+sil=xx/A:1+4+1/B:20-4_1/C:10_7+0/D:xx+xx_xx/E:4_4!0_xx-1/F:4_3#0_xx@4_1|14_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:4-17@1+1&1-4|1+17/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      186
+  State[ 2]
+    Length                             ->        1(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       29
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       60
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->        3(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      175
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        5
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->        4(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      161
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       13
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->        2(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       62
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      246
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->       13(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      166
+    Stream[ 1]
+      MSD flag                         ->     TRUE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       68
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
+HMM[32]
+  Name                                 -> o^o-sil+xx=xx/A:xx+xx+xx/B:10-7_0/C:xx_xx+xx/D:xx+xx_xx/E:4_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:4_17/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+4-17
+  Duration
+    Interpolation[ 0]
+      Tree index                       ->        2
+      PDF index                        ->      196
+  State[ 2]
+    Length                             ->       20(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->       33
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        3
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        2
+        PDF index                      ->        1
+  State[ 3]
+    Length                             ->       18(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->       56
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->      338
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        3
+        PDF index                      ->        1
+  State[ 4]
+    Length                             ->       25(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->       47
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->      266
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        4
+        PDF index                      ->        1
+  State[ 5]
+    Length                             ->       32(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->      122
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->       80
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        5
+        PDF index                      ->        1
+  State[ 6]
+    Length                             ->       11(frames)
+    Stream[ 0]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->      154
+    Stream[ 1]
+      MSD flag                         ->    FALSE
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->       74
+    Stream[ 2]
+      Interpolation[ 0]
+        Tree index                     ->        6
+        PDF index                      ->        1
